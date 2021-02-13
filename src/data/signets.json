@@ -1,0 +1,14 @@
+[
+    {
+        "id": "sig0001",
+        "titre": "Chapitres",
+        "couleur": "vert",
+        "dateModification":"2021-02-13"
+    },
+    {
+        "id": "sig0002",
+        "titre": "Menu",
+        "couleur": "rose",
+        "dateModification":"2021-02-13"
+    }
+]
